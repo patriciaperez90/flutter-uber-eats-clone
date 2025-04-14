@@ -80,7 +80,7 @@
   "devDependencies": {
     "@types/googlemaps": "3.43.3",
     "@types/markerclustererplus": "2.1.33",
-    "@types/react": "^19.0.12",
+    "@types/react": "^19.1.1",
     "husky": "^4.2.5",
     "lint-staged": "^15.5.0",
     "prettier": "3.5.0",
